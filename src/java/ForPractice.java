@@ -40,6 +40,12 @@ public class ForPractice extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Servlet ForPractice at " + request.getContextPath() + "</h1>");
+            
+             out.println("<p>Click <a href=\"index.jsp\">here</a> to go back.</p>");
+            out.println("<p> Their is still alot to learn here about servlets"
+                    + "such as excactly what you can and cannot put in them"
+                    + "I hope to expand more on this experiment as I learn more"
+                    + "");
             out.println("</body>");
             out.println("</html>");
         } finally {            
