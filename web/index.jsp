@@ -12,6 +12,12 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>These are my attempts at practicing servelets</h1>
+        <h2>Wow what can I say what a read this is a really long chapter
+            and takes quite a few rereads to get a basic understanding</h2>
+        <p>Without the help Netbeans provided I am not sure how well I would be
+            able to get this to work.Also having a example to see what was what
+            really helped.I think I will need to see more of this in practice to
+            fully understand it.</p>
     </body>
 </html>
