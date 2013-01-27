@@ -19,5 +19,7 @@
             able to get this to work.Also having a example to see what was what
             really helped.I think I will need to see more of this in practice to
             fully understand it.</p>
+        <p>Click <a href="This is my first practice Servlet">here</a> to use
+            this servlet.</p>
     </body>
 </html>
